@@ -1,4 +1,4 @@
-/* JASYNOVA — CALLISTE GREEN THEME */
+/* MATCHAHOLIC — CALLISTE GREEN THEME */
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap');
 /* COLOR VARIABLES*/
 :root {
@@ -106,7 +106,7 @@ body {
     min-height: 620px;
 }
 
-/* IMPORTANT: Don't use display:flex directly here */
+/* IMPORTANT: */
 .hero-section .carousel-item {
     min-height: 620px;
 }
