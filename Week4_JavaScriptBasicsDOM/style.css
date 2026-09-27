@@ -1,14 +1,14 @@
 body {
-    font-family: Montserrat, sans-serif;
+    font-family: "Playfair Display", serif;
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background-color: #eeaffb;
+    background-color: #f7efda;
     transition: background-color 0.0s, color 0.0s;
     }
 
 header {
-    background-color: #d850fa;
+    background-color: #3f4829;
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -27,7 +27,7 @@ header {
     flex: 1;
     padding: 12px 20px;
     font-size: 16px;
-    border: 1px solid #c934ff;
+    border: 1px solid #3f4829;
     border-radius: 6px;
     box-sizing: border-box;
     min-width: 0;
@@ -42,7 +42,7 @@ header {
     font-size: 16px;
     border: none;
     border-radius: 6px;
-    background-color: #d835f5;
+    background-color: #3f4829;
     color: white;
     cursor: pointer;
     white-space: nowrap;
@@ -57,7 +57,7 @@ header {
 
 #addTask:hover,
 #themeToggle:hover {
-    background-color: #d835f5;
+    background-color: #3f4829;
 }
 
 nav ul {
@@ -105,7 +105,7 @@ input, textarea, button {
     }
 
 button {
-    background-color: #d835f5;
+    background-color: #3f4829;
     color: white;
     border: none;
     cursor: pointer;
@@ -118,7 +118,7 @@ button:hover {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #d850fa;
+    background-color: #3f4829;
     color: #fff;
     }
 
