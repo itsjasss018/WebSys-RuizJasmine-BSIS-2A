@@ -57,8 +57,7 @@ This version introduces more advanced features to the MATCHAHOLIC website throug
 ### Week 7 - MiniFullStackStarter
 This is the final version of the MATCHAHOLIC website, now enhanced with full-stack functionality. It uses MongoDB to store user-submitted data, including names, ages, and email addresses. Users can add their information and delete submitted records, demonstrating how the website can interact with a database and manage stored data.
 
-URL of the Live Render Link for the deployed system:
-[Your Render URL]
+URL of the Live Render Link for the deployed system: https://websys-ruizjasmine-bsis-2a-1.onrender.com/
 
 ---
 
