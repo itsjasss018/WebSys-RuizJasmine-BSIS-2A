@@ -2,7 +2,9 @@
 
 ## Student Information
 Name: Jasmine   R. Ruiz
+
 Course & Section: BSIS-2A
+
 Semester: 1st Semester, A.Y. 2026–2027
 
 ---
